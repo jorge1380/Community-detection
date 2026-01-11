@@ -1,0 +1,60 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python bytecode y caché en cualquier carpeta
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración sensibles
+*.env
+.env.*
+instance/
+config.py
+
+# Bases de datos
+*.sqlite3
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Archivos de caché y temporales
+.cache/
+*.bak
+*.swp
+*.tmp
+
+# Archivos creados por IDEs
+.vscode/
+.idea/
+*.iml
+
+# Test / cobertura
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de profiling
+*.prof
+
+# Distribución
+dist/
+build/
+*.egg-info/
