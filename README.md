@@ -18,7 +18,7 @@ To run the code in this repository, you will need to have **Python 3.8+** instal
 
 1. Clone the repository:
 ```bash
-   git clone [https://github.com/jorge1380/Community-detection.git](https://github.com/jorge1380/Community-detection.git)
+   git clone https://github.com/jorge1380/Community-detection.git
    cd Community-detection
    ```
 
